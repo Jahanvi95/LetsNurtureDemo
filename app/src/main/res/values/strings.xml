@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DemoApplication</string>
+    <string name="str_n_a">N/A</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="str_check_internet_connection">Please check connection and try again</string>
+    <string name="str_okay">Okay</string>
+    <string name="str_wohoo">Wohoo...</string>
+    <string name="str_ok_cool">Done</string>
+    <string name="str_whoops">Ooops...</string>
+    <string name="str_try_again">Try again</string>
+    <string name="str_version">Version</string>
+    <string name="str_some_issue">We are facing some issue, please report to the admin.</string>
+    <string name="str_no_data">No data found</string>
+    <string name="str_navigate">Navigate</string>
+    <string name="str_opens">Opens at %s</string>
+    <string name="str_close">Closes at %s</string>
+
+    <string name="str_status_open">Open</string>
+    <string name="str_status_close">Close</string>
+    <string name="str_search_your_name">Search Resturant name</string>
+</resources>
